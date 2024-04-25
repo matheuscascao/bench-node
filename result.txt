@@ -1,0 +1,6 @@
+
+usingConsole - sumIDoubled: 333318333549999
+usingConsole - Time taken: 500 ms
+
+otUsingConsole - sumIDoubled: 333318333549999
+otUsingConsole - Time taken: 2 ms
